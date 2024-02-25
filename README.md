@@ -42,6 +42,10 @@ Passionate about driving innovation through machine learning and deep learning s
 [![Geometric Primitives and Transformation in CV](https://ytcards.demolab.com/?id=BABzEAJlYog&title=Geometric+Primitives+and+Transformation+in+CV&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "Geometric Primitives and Transformation in CV")](https://youtu.be/BABzEAJlYog?si=6KwIaIabi5BjugJz)
 [![Introduction to Computer Vision](https://ytcards.demolab.com/?id=nhsNVI5v8ng&title=Introduction+to+Computer+Vision&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "Introduction to Computer Vision")](https://youtu.be/nhsNVI5v8ng?si=00CaOme730IMVXWQ)
 [![Fall of Crypto](https://ytcards.demolab.com/?id=s0olLMUN5ls&title=Fall+of+Crypto&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "Fall of Crypto")](https://www.youtube.com/watch?v=s0olLMUN5ls)
+[![wtf is NFT? ( NFTs for Dunnies )](https://ytcards.demolab.com/?id=5Bd11nVa2Vk&title=wtf+is+NFT%3F+%28+NFTs+for+Dunnies+%29&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "wtf is NFT? ( NFTs for Dunnies )")](https://youtu.be/5Bd11nVa2Vk?si=Lj3qtBCDKLfqKkUF)
+[![What is Mining](https://ytcards.demolab.com/?id=z4-uaY_bi8g&title=What+is+Mining&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395)](https://youtu.be/z4-uaY_bi8g?si=AE8bqfwcrby2UBfL)
+[![How to start mining](https://ytcards.demolab.com/?id=gjixqXQnziM&title=How+to+start+mining&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "How to start mining")](https://youtu.be/gjixqXQnziM?si=56fUzpoKHQmUUaZp)
+
 
 <!-- END YOUTUBE-CARDS -->
 #
