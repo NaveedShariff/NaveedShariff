@@ -54,6 +54,7 @@ Passionate about driving innovation through machine learning and deep learning s
 <a href="https://doi.org/10.1016/j.eswa.2019.113100" target="_blank">
   <img src="https://i.postimg.cc/XJ9BtjbB/your-paper-image.jpg" alt="Paper Image" style="max-width:100%;">
 </a>
+![Paper Image](https://i.postimg.cc/XJ9BtjbB/your-paper-image.jpg)
 
 **Abstract:** Add your paper abstract here.
 
