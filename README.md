@@ -5,7 +5,7 @@
 Passionate about driving innovation through machine learning and deep learning solutions. Specializing in creating datasets for diverse problem domains. Dedicated to sharing knowledge through hands-on projects, particularly in blockchain and AI, showcased via YouTube videos "[Naveed Shariff][youtube]" . Let's collaborate and push the boundaries of technology together! 🚀 
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/channel/UCiXYeAylBACBRWfq3KWY62A?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
