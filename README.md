@@ -47,12 +47,18 @@ Passionate about driving innovation through machine learning and deep learning s
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@naveedshariff1723?sub_confirmation=1)
 
-[![Paper](https://ars.els-cdn.com/content/image/1-s2.0-S0957417419306249-fx1_lrg.jpg)](https://doi.org/10.1016/j.eswa.2019.113100)
+### My Paper Title
 
-**Title:** Your Paper Title Here  
-**Authors:** Your Name(s)  
-**Journal:** Expert Systems with Applications  
-**DOI:** [10.1016/j.eswa.2019.113100](https://doi.org/10.1016/j.eswa.2019.113100)
+[![Paper Thumbnail](https://example.com/paper-thumbnail.jpg)](https://doi.org/10.1016/j.eswa.2019.113100)
+
+#### Abstract:
+Add the abstract of your paper here. Provide a brief summary of the key findings and contributions.
+
+#### Download:
+You can download the full paper [here](https://drive.google.com/drive/u/3/home).
+
+#### Citation:
+
 
 
 
