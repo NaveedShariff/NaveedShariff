@@ -61,7 +61,9 @@ Passionate about driving innovation through machine learning and deep learning s
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NaveedShariff&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 ---
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
