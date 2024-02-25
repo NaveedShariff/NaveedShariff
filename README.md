@@ -51,11 +51,11 @@ Passionate about driving innovation through machine learning and deep learning s
 
 # Title: Your Paper Title
 <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px; position: relative;">
-    <img src="https://github.com/NaveedShariff/NaveedShariff/blob/main/assets/89460927/aef920ec-8237-4f80-8c87-7cc94bdb762d.png?raw=true" alt="I will be your" style="width: 100%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="![I will be your](https://github.com/NaveedShariff/NaveedShariff/assets/89460927/aef920ec-8237-4f80-8c87-7cc94bdb762d)?raw=true" alt="I will be your" style="width: 100%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 </div>
 
 
-![I will be your](https://github.com/NaveedShariff/NaveedShariff/assets/89460927/aef920ec-8237-4f80-8c87-7cc94bdb762d)
+
 
 
 **Abstract:** Add your paper abstract here.
