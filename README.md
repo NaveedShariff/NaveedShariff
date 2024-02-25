@@ -44,36 +44,6 @@ Passionate about driving innovation through machine learning and deep learning s
 [![Fall of Crypto](https://ytcards.demolab.com/?id=s0olLMUN5ls&title=Fall+of+Crypto&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "Fall of Crypto")](https://www.youtube.com/watch?v=s0olLMUN5ls)
 
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://ibb.co/N74jYmT?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@naveedshariff1723?sub_confirmation=1)
-
-### My Paper Title
-
-# Title: Your Paper Title
-<div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px; position: relative;">
-    <img src="![I will be your](https://github.com/NaveedShariff/NaveedShariff/assets/89460927/aef920ec-8237-4f80-8c87-7cc94bdb762d)?raw=true" alt="I will be your" style="width: 100%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-</div>
-
-
-
-
-
-**Abstract:** Add your paper abstract here.
-
-**Authors:** Your Name, Co-Author 1, Co-Author 2, ...
-
-**Published in:** Expert Systems with Applications
-
-**DOI:** [10.1016/j.eswa.2019.113100](https://doi.org/10.1016/j.eswa.2019.113100)
-
-**Link to Paper:** [Read Paper](https://doi.org/10.1016/j.eswa.2019.113100)
-
-
-#### Citation:
-
-
-
-
 #
 
 ### 📊 Stats
