@@ -34,8 +34,6 @@ Passionate about driving innovation through machine learning and deep learning s
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@naveedshariff1723?sub_confirmation=1)
-
 #
 
 ### 📺 Latest YouTube Videos
@@ -49,6 +47,7 @@ Passionate about driving innovation through machine learning and deep learning s
 [![How to start mining](https://ytcards.demolab.com/?id=gjixqXQnziM&title=How+to+start+mining&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "How to start mining")](https://youtu.be/gjixqXQnziM?si=56fUzpoKHQmUUaZp)
 
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@naveedshariff1723?sub_confirmation=1)
 <!-- END YOUTUBE-CARDS -->
 #
 
