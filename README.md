@@ -60,7 +60,6 @@ Passionate about driving innovation through machine learning and deep learning s
 **Journal:** Expert Systems with Applications  
 **DOI:** [10.1016/j.eswa.2019.113100](https://doi.org/10.1016/j.eswa.2019.113100)
 
-Abstract: Provide a brief summary of your paper's content here.
 
 
 #
