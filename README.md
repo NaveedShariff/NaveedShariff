@@ -45,7 +45,7 @@ Passionate about driving innovation through machine learning and deep learning s
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@naveedshariff1723?sub_confirmation=1)
+[<img src="https://ibb.co/N74jYmT?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@naveedshariff1723?sub_confirmation=1)
 
 ### My Paper Title
 
