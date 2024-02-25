@@ -50,6 +50,7 @@ Passionate about driving innovation through machine learning and deep learning s
 ### My Paper Title
 
 # Title: Your Paper Title
+![Paper Thumbnail](https://github.com/NaveedShariff/NaveedShariff/blob/main/assets/89460927/aef920ec-8237-4f80-8c87-7cc94bdb762d.png?raw=true)
 
 ![I will be your](https://github.com/NaveedShariff/NaveedShariff/assets/89460927/aef920ec-8237-4f80-8c87-7cc94bdb762d)
 
