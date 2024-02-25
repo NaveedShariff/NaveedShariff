@@ -49,11 +49,9 @@ Passionate about driving innovation through machine learning and deep learning s
 
 ### My Paper Title
 
-[![Paper Thumbnail](https://example.com/paper-thumbnail.jpg)](https://doi.org/10.1016/j.eswa.2019.113100)
-
-#### Abstract:
-Add the abstract of your paper here. Provide a brief summary of the key findings and contributions.
-
+**Authors:** [Your Name(s)](link_to_your_profile)  
+**Journal/Conference:** Expert Systems with Applications  
+**DOI:** [10.1016/j.eswa.2019.113100](https://doi.org/10.1016/j.eswa.2019.113100)
 #### Download:
 You can download the full paper [here](https://drive.google.com/drive/u/3/home).
 
