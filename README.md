@@ -49,11 +49,22 @@ Passionate about driving innovation through machine learning and deep learning s
 
 ### My Paper Title
 
-**Authors:** [Your Name(s)](link_to_your_profile)  
-**Journal/Conference:** Expert Systems with Applications  
+# Title: Your Paper Title
+
+<a href="https://doi.org/10.1016/j.eswa.2019.113100" target="_blank">
+  <img src="https://i.postimg.cc/XJ9BtjbB/your-paper-image.jpg" alt="Paper Image" style="max-width:100%;">
+</a>
+
+**Abstract:** Add your paper abstract here.
+
+**Authors:** Your Name, Co-Author 1, Co-Author 2, ...
+
+**Published in:** Expert Systems with Applications
+
 **DOI:** [10.1016/j.eswa.2019.113100](https://doi.org/10.1016/j.eswa.2019.113100)
-#### Download:
-You can download the full paper [here](https://drive.google.com/drive/u/3/home).
+
+**Link to Paper:** [Read Paper](https://doi.org/10.1016/j.eswa.2019.113100)
+
 
 #### Citation:
 
