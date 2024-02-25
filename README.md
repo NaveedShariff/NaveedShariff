@@ -2,9 +2,10 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-Passionate about driving innovation through machine learning and deep learning solutions. Specializing in creating datasets for diverse problem domains. Dedicated to sharing knowledge through hands-on projects, particularly in blockchain and AI, showcased via YouTube videos "[Naveed Shariff][youtube]" . Let's collaborate and push the boundaries of technology together! 🚀 
+Passionate about driving innovation through machine learning and deep learning solutions. Specializing in creating datasets for diverse problem domains. Dedicated to sharing knowledge through hands-on projects, particularly in blockchain and AI, showcased via YouTube videos <a href="https://www.youtube.com/@naveedshariff1723" target="_blank">Naveed Shariff</a>
+. Let's collaborate and push the boundaries of technology together! 🚀 
 
-   <p align="left">
+   <p align="centre">
       <a href="https://www.youtube.com/@naveedshariff1723?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCiXYeAylBACBRWfq3KWY62A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@naveedshariff1723">
