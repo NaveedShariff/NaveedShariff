@@ -1,6 +1,6 @@
 # 🏇🏻 Naveed Shariff
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Working on Project-RAI (Research on Advanced Intelligence)`**
 
 Passionate about driving innovation through machine learning and deep learning solutions. Specializing in creating datasets for diverse problem domains. Dedicated to sharing knowledge through hands-on projects, particularly in blockchain and AI, showcased via YouTube videos <a href="https://www.youtube.com/@naveedshariff1723" target="_blank">Naveed Shariff</a>
 . Let's collaborate and push the boundaries of technology together! 🚀 
