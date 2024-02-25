@@ -53,6 +53,16 @@ Passionate about driving innovation through machine learning and deep learning s
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
+[![Paper](https://ars.els-cdn.com/content/image/1-s2.0-S0957417419306249-fx1_lrg.jpg)](https://doi.org/10.1016/j.eswa.2019.113100)
+
+**Title:** Your Paper Title Here  
+**Authors:** Your Name(s)  
+**Journal:** Expert Systems with Applications  
+**DOI:** [10.1016/j.eswa.2019.113100](https://doi.org/10.1016/j.eswa.2019.113100)
+
+Abstract: Provide a brief summary of your paper's content here.
+
+
 #
 
 ### 📊 Stats
